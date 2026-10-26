@@ -4,9 +4,9 @@
 
 enable the Windows Subsystem for Linux (WSL) on Windows 11
 
-[Install](https://learn.microsoft.com/en-us/windows/wsl/install)
-[Environment](https://learn.microsoft.com/en-us/windows/wsl/setup/environment)
-[Linux](https://learn.microsoft.com/en-us/windows/wsl/tutorials/linux)
+- [Install](https://learn.microsoft.com/en-us/windows/wsl/install)
+- [Environment](https://learn.microsoft.com/en-us/windows/wsl/setup/environment)
+- [Linux](https://learn.microsoft.com/en-us/windows/wsl/tutorials/linux)
 
 ```cmd
 wsl --install
